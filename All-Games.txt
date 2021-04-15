@@ -1,5 +1,5 @@
 Made by Anonymous (updated versions will be circulated when I find new links)
-Current Version: 3.2
+Current Version: 3.3
 Updates will be provided asap
  
 =========================================================================================================================================================
@@ -57,6 +57,9 @@ Awesome unblocked useless web
 CoronaVirus Ninja: https://coronavirus-ninja.com/
 Fun Game, click virus, dont miss
 
+Game About Squares: http://gameaboutsquares.com/
+Interesting game click squares it'll tell u how 2 play
+
 =========================================================================================================================================================
 
 How to temporarily bypass Smoothwall *PATCHED* (It will only work for a small amount of time.)
@@ -81,6 +84,7 @@ Flappy Bird: https://flappybird.io/
 
 Changelog
 
+v3.3: Added Game about Squares
 v3.2: Added CoronaVirus Ninja Game
 v3.1: Added Unblocked Useless Web
 v3.0: Added Friday Night Funkin, Meme Super Smash Bros, and a neat little knife throwing game.
