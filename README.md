@@ -1,4 +1,4 @@
-# Unblocked-Smoothwall-Games
+# Unblocked-Smoothwall-Games (READ MORE to learn how to use)
 This is a repository of unblocked games that bypass Smoothwall. Be sure to check back every so often for new updates that come multiple times per week!
 
 ## Current Version: 3.3
