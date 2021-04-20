@@ -3,8 +3,8 @@ This is a repository of unblocked games that bypass Smoothwall. Be sure to check
 ### HOW TO USE:
 https://github.com/AntiSmoothwall/Unblocked-Smoothwall-Games/wiki/How-to-Use-this-Repository
 
-## Current Version: 3.5
-Last Update: 4/19/2021
+## Current Version: 3.6
+Last Update: 4/20/2021 (420 funny haha)
 Changelog: https://github.com/AntiSmoothwall/Unblocked-Smoothwall-Games/wiki/Changelog-Updates
 
 # If theres any issues, use issues tab to report issues
