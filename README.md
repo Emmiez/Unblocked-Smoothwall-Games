@@ -1,4 +1,4 @@
-# Unblocked-Smoothwall-Games (READ MORE to learn how to use)
+# Unblocked-Smoothwall-Games HOW TO USE -> https://github.com/AntiSmoothwall/Unblocked-Smoothwall-Games/wiki/How-to-Use-this-Repository
 This is a repository of unblocked games that bypass Smoothwall. Be sure to check back every so often for new updates that come multiple times per week!
 ### HOW TO USE:
 https://github.com/AntiSmoothwall/Unblocked-Smoothwall-Games/wiki/How-to-Use-this-Repository
